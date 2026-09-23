@@ -1,0 +1,118 @@
+Administration Settings
+    Breadcrumb
+        Modules Dashboard
+            --No Validation
+        Add Breadcrumb
+            -- Breadcrumb Name - Same Breadcrumb Name Warning
+            -- Breadcrumb URL - Same breadcrumb URL Warning
+            ** Same Breadcrumb Name, Breadcrumb URL Warning
+        View Breadcrumb 
+            -- View Specific Breadcrumb Button Validation
+        View Specific Breadcrumb
+            -- Update Specific Breadcrumb Button Validation
+            -- Delete Specific Breadcrumb Button Validation
+            -- Delete Specific Active Breadcrumb Warning
+        Update Specific Breadcrumb 
+            -- Breadcrumb Name - Same Breadcrumb Name Warning
+            -- Breadcrumb URL - Same Breadcrumb URL Warning
+            ** Same Breadcrumb Name, Breadcrumb URL Warning
+    Cities
+        City Dashboard
+            --No Validation
+        Add City
+            -- City Name - Same City Name Warning
+        View Cities
+            -- View Specific City Button Validation
+        View Specific City
+            -- Update Specific City Button Validation
+            -- Delete Specific City Button Validation
+        Update Specific City
+            -- City Name - Same City Name Warning    
+    Functions
+        Functions Dashboard
+            --No Validation
+        Add Function
+            --Function Name - Same Function Name Warning
+            --Function URL Status Validation
+            --Function URL Value Validation
+        View Functions  
+            --View Specific Function Button Validation
+        View Specific Function
+            --Update Specific Function Button Validation
+            --Delete Specific Function Button Validation
+        Update Specific Function
+            --Function Name - Same Function Name Warning
+            --Function URL - Same Function URL Warning
+            **Same Function Name, Function URL Warning
+            --Function URL Status Validation
+            --Function URL Validation
+    Functions Modules
+        Functions Modules Dashboard
+            --No Validation
+        Add Functions Module
+            --Function Modules Name - Same Function Module Name Warning
+            --Pass Value - Same Pass Value Warning
+            **Same Function Module Name, Pass Value Warning
+        View Functions Module
+            --View Specific Functions Module Button Validation
+            --Delete Specific Functions Module Button Validation
+        View Specific Functions Module
+            --Update Specific Function Button Validation
+            --Delete Specific Function Button Validation
+        --Update Specific Functions Module
+            --Functions Module Name - Same Functions Module Name Warning
+            --Pass Value - Same Pass Value Warning
+            **Same Function Modules Name, Pass Value Warning
+    Functions Module Functions
+        Functions Module Functions
+            --Update Functions Module Functions
+    Module Functions
+        Module Functions
+            --Update Module Functions Button Validation
+        Update Module Functions
+            --No Validation
+    Modules
+        Modules Dashboard
+            --No Validation
+        Add Module
+            --Same Module Name Warning
+            --Same Module URL Warning
+            **Same Module Name, Module URL Warning
+        View Modules
+            --Table
+                -View Specific Module Button Validation
+        View Specific Module
+            --Update Specific Module Button Validation
+        Update Specific Module
+            --Same Module Name Warning
+            --Same Module URL Warning
+            **Same Module Name, Module URL Warning
+    Month
+        Month Dashboard
+            --No Validation
+        Add Month
+            --Same Month Name Warning
+        View Months
+            --View Specific Month Button Validation
+        View Specific Month
+            --Update Specific Month Button Validation
+        Update Specific Month
+            --Update Button Validation
+            --Same Month Name Warning
+    Navigation Tab Types
+        Navigation Tab Types Dashboard
+            --No Validation
+        Add Navigation Tab Type
+            --Same Navigation Tab Type Name Warning
+        View Navigation Tab Types   
+            --View Specific Navigation Tab Type Button Validation
+        View Specific Navigation Tab Types
+            --Update Specific Navigation Tab Type Button Validation
+        Update Specific Navigation Tab Type 
+            --Update Button Validation
+            --Same Navigation Tab Type Name Warning
+    Navigation Tab
+        Navigation Tab Dashboard
+            --No Validations
+        Add Navigation Tab
+            --
