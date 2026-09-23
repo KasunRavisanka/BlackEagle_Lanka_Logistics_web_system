@@ -1,0 +1,36 @@
+<?php
+    include_once '../model/breadcrumb_model.php';
+    include_once '../model/client_model.php';
+    include_once '../model/driver_model.php';
+    include_once '../model/fleet_model.php';
+    include_once '../model/functions_model.php';
+    include_once '../model/functions_modules_model.php';
+    include_once '../model/login_model.php';
+    include_once '../model/maintenance_model.php';
+    include_once '../model/module_model.php';
+    include_once '../model/user_model.php';
+    include_once '../model/vehicle_model.php';
+    include_once '../model/warehouse_model.php';
+    include_once '../model/supplier_model.php';
+    include_once '../model/inventory_model.php';
+    include_once '../model/booking_model.php';
+    include_once '../model/administratorSettings_module.php';
+    include_once '../model/website_model.php';
+    $breadcrumbObj = new Breadcrumb();
+    $clientObj = new Client();
+    $driverObj = new Driver();
+    $fleetObj = new Fleet();
+    $functionsObj = new Functions();
+    $functionsModulesObj = new Functions_Module();
+    $loginObj = new Login();
+    $maintenanceObj = new Maintenance();
+    $moduleObj = new Module();
+    $userObj = new User();
+    $vehicleObj = new Vehicle();
+    $warehouseObj = new Warehouse();
+    $supplierObj = new Supplier();
+    $inventoryObj = new Inventory();
+    $bookingObj = new Booking();
+    $administratorSettingsObj = new AdministratorSettings();
+    $websiteObj = new Website();
+?>
