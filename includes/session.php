@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <?php
+            session_start();
+            $number1;
+            $number2;
+            $number3;
+            $number4;
+            $number5;
+            $number6;
+            $number7;
+            $number8;
+            $number9;
+            $number10;
+        ?>
+    </body>
+</html>
